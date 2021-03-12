@@ -1,0 +1,11 @@
+ion-segment {
+  background: var(--ion-color-dark);
+}
+
+ion-segment-button {
+  color: var(--ion-color-light);
+}
+
+.segment-button-checked {
+  color: var(--ion-color-primary) !important;
+}
